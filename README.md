@@ -21,7 +21,6 @@ To run the scripts in this repository, you'll need the following Python packages
 
 You can install these packages using the provided `requirements.txt` file.
 
-    ```bash
     pip install -r requirements.txt
 
 
