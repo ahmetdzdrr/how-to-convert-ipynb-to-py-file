@@ -6,8 +6,6 @@ This repository contains instructions and code examples for converting Jupyter N
 - [Introduction](#introduction)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Examples](#examples)
 - [License](#license)
 
 ## Introduction
@@ -27,6 +25,8 @@ You can install these packages using the provided `requirements.txt` file.
 ## Installation
 First, clone this repository to your local machine:
 
-  ```bash
     git clone https://github.com/ahmetdzdrr/how-to-convert-ipynb-to-py-file.git
     cd how-to-convert-ipynb-to-py-file
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
